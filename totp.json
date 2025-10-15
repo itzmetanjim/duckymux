@@ -20,6 +20,20 @@
             "time_step": 30,
             "digits": 10,
             "digest": "sha1"
+        },
+        {
+            "name": "example sha256 key",
+            "secret": "JBSWY3DPEHPK3PXQ",
+            "time_step": 30,
+            "digits": 6,
+            "digest": "sha256"
+        },
+        {
+            "name": "fast key",
+            "secret": "JBSWY3DPEHPK3PXQ",
+            "time_step": 5,
+            "digits": 6,
+            "digest": "sha256"
         }
     ]
 }
