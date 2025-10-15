@@ -1,0 +1,25 @@
+{
+    "keys": [
+        {
+            "name": "example key 1",
+            "secret": "JBSWY3DPEHPK3PXP",
+            "time_step": 30,
+            "digits": 6,
+            "digest": "sha1"
+        },
+        {
+            "name": "very fast key",
+            "secret": "JBSWY3DPEHPK3PXW",
+            "time_step": 1,
+            "digits": 6,
+            "digest": "sha1"
+        },
+        {
+            "name": "example 10 digit key",
+            "secret": "JBSWY3DPEHPK3PWX",
+            "time_step": 30,
+            "digits": 10,
+            "digest": "sha1"
+        }
+    ]
+}
